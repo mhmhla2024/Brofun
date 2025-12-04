@@ -1,2 +1,9 @@
-# Brofun
-Auto referrals.
+💼 Contact & Purchase
+
+🔹 Buy Now: [Telegram](https://t.me/meomundep)
+
+🔹 Fast & Direct – No Unnecessary Talk or Silly Question.
+
+📌 Serious buyers only. Let's keep it professional! 🚀
+
+🌐 [Brofun Link](https://bro.fun?r=UPAL3I)
